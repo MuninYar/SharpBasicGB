@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Distance btw dots\bin\Debug\Distance btw dots.exe.config
+C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Distance btw dots\bin\Debug\Distance btw dots.exe
+C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Distance btw dots\bin\Debug\Distance btw dots.pdb
+C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Distance btw dots\obj\Debug\Distance btw dots.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Distance btw dots\obj\Debug\Distance btw dots.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Distance btw dots\obj\Debug\Distance btw dots.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Distance btw dots\obj\Debug\Distance btw dots.exe
+C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Distance btw dots\obj\Debug\Distance btw dots.pdb
