@@ -1,8 +1,0 @@
-C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Print To Screen Center\bin\Debug\Print To Screen Center.exe.config
-C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Print To Screen Center\bin\Debug\Print To Screen Center.exe
-C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Print To Screen Center\bin\Debug\Print To Screen Center.pdb
-C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Print To Screen Center\obj\Debug\Print To Screen Center.csproj.AssemblyReference.cache
-C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Print To Screen Center\obj\Debug\Print To Screen Center.csproj.SuggestedBindingRedirects.cache
-C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Print To Screen Center\obj\Debug\Print To Screen Center.csproj.CoreCompileInputs.cache
-C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Print To Screen Center\obj\Debug\Print To Screen Center.exe
-C:\Users\Dell\Desktop\IT\GB Homework\GB Lesson 1\Print To Screen Center\obj\Debug\Print To Screen Center.pdb
