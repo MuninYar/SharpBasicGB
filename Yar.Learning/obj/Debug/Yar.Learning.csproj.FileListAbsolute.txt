@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Yar.Learning\bin\Debug\Yar.Learning.dll
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Yar.Learning\bin\Debug\Yar.Learning.pdb
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Yar.Learning\obj\Debug\Yar.Learning.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Yar.Learning\obj\Debug\Yar.Learning.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Yar.Learning\obj\Debug\Yar.Learning.dll
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Yar.Learning\obj\Debug\Yar.Learning.pdb

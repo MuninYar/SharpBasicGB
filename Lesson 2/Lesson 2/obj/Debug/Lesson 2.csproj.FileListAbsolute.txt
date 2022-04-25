@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\bin\Debug\Lesson 2.exe.config
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\bin\Debug\Lesson 2.exe
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\bin\Debug\Lesson 2.pdb
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\bin\Debug\Yar.Learning.dll
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\bin\Debug\Yar.Learning.pdb
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\obj\Debug\Lesson 2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\obj\Debug\Lesson 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\obj\Debug\Lesson 2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\obj\Debug\Lesson 2.csproj.CopyComplete
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\obj\Debug\Lesson 2.exe
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 2\Lesson 2\obj\Debug\Lesson 2.pdb
