@@ -10,18 +10,19 @@ namespace Yar.Learning
     {
         public static void PrintHead(int lessonNumber)
         {
-            Console.WriteLine("====================");
+            Console.WriteLine("=============================");
             Console.WriteLine(" C# Basics");
             Console.WriteLine(" Yaroslav Rezchikov");
             Console.WriteLine($" Lesson: {lessonNumber}");
-            Console.WriteLine("====================");
+            Console.WriteLine(" Press any key to continue...");
+            Console.WriteLine("=============================");
         }
-        public static void PrintMenu(int tasksNumber, string [] taskCondition)
+        public static void PrintMenu(int userOptionNumber, string [] userOptionCondition)
         {
             Console.WriteLine("===================");
             Console.WriteLine(" MENU");
-            for (int i = 0; i < tasksNumber; i++)
-                Console.WriteLine($"{i+1} -> Task N {i+1} ... {taskCondition[i]}");
+            for (int i = 0; i < userOptionNumber; i++)
+                Console.WriteLine($"{i+1} -> {userOptionCondition[i]}");
             Console.WriteLine("0 -> End program... ");
             Console.WriteLine("===================");
         }

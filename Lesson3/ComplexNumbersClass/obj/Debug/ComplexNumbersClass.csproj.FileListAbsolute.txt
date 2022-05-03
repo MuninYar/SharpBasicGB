@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\obj\Debug\ComplexNumbersClass.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\obj\Debug\ComplexNumbersClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\obj\Debug\ComplexNumbersClass.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\bin\Debug\ComplexNumbersClass.exe.config
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\bin\Debug\ComplexNumbersClass.exe
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\bin\Debug\ComplexNumbersClass.pdb
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\bin\Debug\Yar.Learning.dll
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\bin\Debug\Yar.Learning.pdb
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\obj\Debug\ComplexNumbersClass.csproj.CopyComplete
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\obj\Debug\ComplexNumbersClass.exe
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson3\ComplexNumbersClass\obj\Debug\ComplexNumbersClass.pdb

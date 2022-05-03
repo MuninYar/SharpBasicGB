@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Yar.Learning;
 
 namespace Lesson_2
@@ -166,8 +162,8 @@ namespace Lesson_2
             Console.WriteLine("Hight in cm: ");
             double hight = double.Parse(Console.ReadLine());
 
-            double BMI = CalculateBMI(weight,hight);
-            BMICompareToNormal(BMI, weight, hight);
+            double bmi = CalculateBMI(weight,hight);
+            BMICompareToNormal(bmi, weight, hight);
             
         }
         static double CalculateBMI(double weight, double hight)
