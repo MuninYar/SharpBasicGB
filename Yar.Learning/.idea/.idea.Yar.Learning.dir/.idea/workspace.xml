@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="574ffbef-c250-4174-9770-92c9f0c43130" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/.vs/Lesson 2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson 2/.vs/Lesson 2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/Lesson 2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson 2/Lesson 2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/Lesson 2/bin/Debug/Lesson 2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson 2/Lesson 2/bin/Debug/Lesson 2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/Lesson 2/bin/Debug/Lesson 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson 2/Lesson 2/bin/Debug/Lesson 2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/Lesson 2/obj/Debug/Lesson 2.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson 2/Lesson 2/obj/Debug/Lesson 2.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/Lesson 2/obj/Debug/Lesson 2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson 2/Lesson 2/obj/Debug/Lesson 2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/Lesson 2/obj/Debug/Lesson 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson 2/Lesson 2/obj/Debug/Lesson 2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutputSamples.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OutputSamples.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="28Thr1u1TcK8SmAU7QXq0OjaBFS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1651246683772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651246683772</updated>
+      <workItem from="1651246691260" duration="11000" />
+      <workItem from="1651247058971" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
