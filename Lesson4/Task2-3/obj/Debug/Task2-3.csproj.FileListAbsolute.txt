@@ -1,0 +1,9 @@
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/bin/Debug/Task2_3.exe
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/bin/Debug/Task2_3.pdb
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/bin/Debug/Yar.Learning.dll
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/bin/Debug/Yar.Learning.pdb
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/obj/Debug/Task2-3.csproj.AssemblyReference.cache
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/obj/Debug/Task2-3.csproj.CoreCompileInputs.cache
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/obj/Debug/Task2-3.csproj.CopyComplete
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/obj/Debug/Task2_3.exe
+/Users/yaroslav_rezchikov/Documents/GitHub/SharpBasicGB/Lesson4/Task2-3/obj/Debug/Task2_3.pdb
