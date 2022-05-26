@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\PrintDirectory\bin\Debug\PrintDirectory.exe
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\PrintDirectory\bin\Debug\PrintDirectory.pdb
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\PrintDirectory\obj\Debug\PrintDirectory.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\PrintDirectory\obj\Debug\PrintDirectory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\PrintDirectory\obj\Debug\PrintDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\PrintDirectory\obj\Debug\PrintDirectory.exe
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\PrintDirectory\obj\Debug\PrintDirectory.pdb
