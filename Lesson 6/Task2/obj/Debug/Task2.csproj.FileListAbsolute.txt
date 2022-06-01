@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\Task2\bin\Debug\Task2.exe
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\Task2\bin\Debug\Task2.pdb
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\Task2\obj\Debug\Task2.exe
+C:\Users\Dell\Desktop\IT\repos\SharpBasicHomework1\SharpBasicGB\Lesson 6\Task2\obj\Debug\Task2.pdb
